@@ -12,7 +12,7 @@ Repo - [https://github.com/lakshh07/DeCloud-UnstoppbleDomain-Integration](https:
 
 # Working App
 
-Website (WIP) - [https://decloud.netlify.app/](https://decloud.netlify.app/)
+Website - [https://decloud.netlify.app/](https://decloud.netlify.app/)
 
 # Demo Video
 
